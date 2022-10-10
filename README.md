@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Debjeet Mukherjee</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="400" height="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdebjeet&label=Profile%20views&color=0e75b6&style=flat" alt="coderdebjeet" /> </p>
 
