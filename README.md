@@ -4,10 +4,6 @@
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="300" height="300">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdebjeet&label=Profile%20views&color=0e75b6&style=flat" alt="coderdebjeet" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdebjeet" alt="coderdebjeet" /></a> </p>
-
 
 
 - 🔭 I’m currently working on [Android Development](https://coderdebjeet.github.io/flutter1/)
@@ -25,6 +21,11 @@
 - 📫 How to reach me **debjeetmukherjee10@gmail.com**
 
 - ⚡ Fun fact **The bravest thing I've ever done was give a product demonstration to a live audience of over one thousand people.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdebjeet&label=Profile%20views&color=0e75b6&style=flat" alt="coderdebjeet" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdebjeet" alt="coderdebjeet" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
