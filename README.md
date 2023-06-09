@@ -14,11 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CoderDebjeet](https://github.com/CoderDebjeet)
 
-- 📝 I regularly write articles on [http://technicalgyan.ml/](http://technicalgyan.ml/)
-
 - 💬 Ask me about **Web Development, Flutter**
-
-- 📫 How to reach me **debjeetmukherjee10@gmail.com**
 
 - ⚡ Fun fact **The bravest thing I've ever done was give a product demonstration to a live audience of over one thousand people.**
 
